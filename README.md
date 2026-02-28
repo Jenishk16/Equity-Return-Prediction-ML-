@@ -1,1 +1,1 @@
-# Equity-Return-Prediction-ML-
+# Equity-Return-Prediction-ML
