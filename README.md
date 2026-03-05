@@ -3,7 +3,7 @@
 ## Problem Statement
 
 Financial markets are noisy and predicting short-term price movements is difficult. 
-This project explores whether simple historical return features can help predict 
+This project explores whether simple historical return and other features like momentum, volatality can help predict 
 the next-day/week/month return of a stock using Linear Regression.
 
 Goal:
